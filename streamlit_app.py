@@ -72,6 +72,17 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://i.ytimg.com/vi/2Ol9UU52mQc/maxresdefault.jpg"],
        "videos": ["https://youtu.be/XXXXXXXXXXX"]
      },
+
+     labels[1]: {
+       "texts": ["안상현이 좋아하는 치킨은 뿌링클입니다."],
+       "images": ["https://i.ytimg.com/vi/2Ol9UU52mQc/maxresdefault.jpg"],
+       "videos": ["https://youtu.be/XXXXXXXXXXX"]
+     },
+     labels[2]: {
+       "texts": ["안상현이 좋아하는 치킨은 뿌링클입니다."],
+       "images": ["https://i.ytimg.com/vi/2Ol9UU52mQc/maxresdefault.jpg"],
+       "videos": ["https://youtu.be/XXXXXXXXXXX"]
+     },
 }
 
 # ======================
