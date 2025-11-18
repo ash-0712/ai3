@@ -65,10 +65,6 @@ labels = [str(x) for x in learner.dls.vocab]
 st.write(f"**분류 가능한 항목:** `{', '.join(labels)}`")
 st.markdown("---")
 
-# ======================
-# 라벨 이름 매핑: 여기를 채우세요!
-# 각 라벨당 최대 3개씩 표시됩니다.
- ======================
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
